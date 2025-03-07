@@ -2,7 +2,6 @@ markdown
 fastapi
 httpx
 pydantic
-json
 uvicorn
 jinja2
 python-multipart
